@@ -2,4 +2,5 @@ Biodata
 
 nama : Dicky Aris Munandar
 umur : 18
-gender : laki - laki
+gender : Pria
+
